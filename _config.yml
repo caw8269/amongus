@@ -1,5 +1,5 @@
-remote_theme: pages-themes/hacker@v0.2.0
--jekyll-remote-theme
-Tile: amongus
-description: for fun
-show downloads: true
+title: Hacker Theme
+description:  hacker is a theme for github pages
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
